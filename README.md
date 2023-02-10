@@ -13,6 +13,6 @@ Basic knowledge in:
 * `Arduino` `ESP8266-12E`
 
 <!---
-prabhu1122/prabhu1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prabhu1122/prabhu1122
 You can click the Preview link to take a look at your changes.
 --->
