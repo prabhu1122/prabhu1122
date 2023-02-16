@@ -61,9 +61,9 @@ ___
 ### Stats:
 <div id="header" align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=solarized-dark" width=240/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=solarized-dark" width=500/>
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=prabhu1122&theme=solarized-dark" width=300/>
+    <img src="https://github-readme-stats.vercel.app/api?username=prabhu1122&theme=solarized-dark" width=500/>
   </a>
 </div>
