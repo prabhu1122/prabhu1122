@@ -51,4 +51,4 @@ ___
 ___
 
 ### Markdown:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&theme=vision-friendly-light)](https://github.com/prabhu1122/github-readme-stats)
