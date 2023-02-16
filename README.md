@@ -50,10 +50,20 @@ ___
 ___
 
 ### My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhu1122&fire=EB2118&&theme=solarized-dark&currStreakNum=EB5571&dates=29EB87&border_radius=10)](https://git.io/streak-stats)
-![Github satrs](https://github-readme-stats.vercel.app/api?username=prabhu1122)
+<div id="header" align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=prabhu1122&fire=EB2118&&theme=solarized-dark&currStreakNum=EB5571&dates=29EB87&border_radius=10" width="800"/>
+  </a>
+  </div>
+  
 ___
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&theme=vision-friendly-light)](https://github.com/prabhu1122/github-readme-stats)
-
+<div id="header" align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=dracula" width=400/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=prabhu1122" width=500/>
+  </a>
+</div>
