@@ -36,15 +36,15 @@ ___
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" background="white"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>
 </div>
 
 ___
@@ -52,18 +52,18 @@ ___
 ### My Stats:
 <div id="header" align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=prabhu1122&fire=EB2118&&theme=solarized-dark&currStreakNum=EB5571&dates=29EB87&border_radius=10" width="800"/>
+    <img src="https://streak-stats.demolab.com/?user=prabhu1122&fire=E01A5A&&theme=dracula&currStreakNum=EB5571&dates=29EB87&border_radius=10" width="800"/>
   </a>
-  </div>
+</div>
   
 ___
 
 ### Stats:
 <div id="header" align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=dracula" width=450/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=solarized-dark" width=280/>
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=prabhu1122" width=500/>
+    <img src="https://github-readme-stats.vercel.app/api?username=prabhu1122&theme=solarized-dark" width=350/>
   </a>
 </div>
