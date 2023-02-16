@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
@@ -6,8 +5,6 @@
 </div>
 
 ___
-
-### Snake contrib:
 
 ![snake gif](https://github.com/prabhu1122/prabhu1122/blob/output/github-contribution-grid-snake.svg)
 
