@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="160"/>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="460"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -45,8 +45,7 @@ ___
 ___
 
 ### My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prabhu1122&theme=dark&background=005246)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhu1122&currStreakNum=2FD3EB&fire=EB2118&theme=dark&currStreakNum=EB5571&dates=29EB87&sideLabels=EB749D&currStreakLabel=EB55D7)](https://git.io/streak-stats)
 
 ___
 
