@@ -50,8 +50,10 @@ ___
 ___
 
 ### My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhu1122&fire=EB2118&&theme=prussian&currStreakNum=EB5571&dates=29EB87&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhu1122&fire=EB2118&&theme=solarized-dark&currStreakNum=EB5571&dates=29EB87&border_radius=10)](https://git.io/streak-stats)
+![Github satrs](https://github-readme-stats.vercel.app/api?username=prabhu1122)
 ___
 
-### Markdown:
+### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&theme=vision-friendly-light)](https://github.com/prabhu1122/github-readme-stats)
+
