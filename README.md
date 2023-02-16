@@ -61,7 +61,7 @@ ___
 ### Stats:
 <div id="header" align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=dracula" width=400/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu1122&layout=compact&langs_count=7&theme=dracula" width=450/>
   </a>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=prabhu1122" width=500/>
