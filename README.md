@@ -45,8 +45,7 @@ ___
 ___
 
 ### My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhu1122&currStreakNum=2FD3EB&fire=EB2118&theme=dark&currStreakNum=EB5571&dates=29EB87&sideLabels=EB749D&currStreakLabel=EB55D7)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhu1122&fire=EB2118&&theme=prussian&currStreakNum=EB5571&dates=29EB87&border_radius=10)](https://git.io/streak-stats)
 ___
 
 ### Markdown:
