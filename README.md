@@ -9,7 +9,7 @@ ___
 
 ### Snake contrib:
 
-![snake gif](https://github.com/prabhu1122/prabhu1122/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/prabhu1122/prabhu1122/blob/output/github-contribution-grid-snake.svg)
 
 ___
 
