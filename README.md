@@ -51,7 +51,7 @@ ___
 
 ### My Stats:
 <div id="header" align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="#">
     <img src="https://streak-stats.demolab.com/?user=prabhu1122&fire=E01A5A&&theme=dracula&currStreakNum=EB5571&dates=29EB87&border_radius=10" width="800"/>
   </a>
 </div>
